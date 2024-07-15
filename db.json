@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "docturename": "Shradha",
+      "consultancyfees": "1000",
+      "appointmentdate": "2024-07-17",
+      "appointmenttime": "04:04",
+      "currentstatus": "No",
+      "id": 1
+    },
+    {
+      "docturename": "Nikita",
+      "consultancyfees": "2000",
+      "appointmentdate": "2024-07-16",
+      "appointmenttime": "11:01",
+      "currentstatus": "No",
+      "id": 2
+    },
+    {
+      "docturename": "Shradha",
+      "consultancyfees": "1000",
+      "appointmentdate": "2024-07-16",
+      "appointmenttime": "22:02",
+      "currentstatus": "No",
+      "id": 3
+    }
+  ]
+}
